@@ -1,2 +1,1 @@
-# assignment3
-Ispravka koda ITA
+Ispravka koda ITA- kurs Introduction to Software Development
